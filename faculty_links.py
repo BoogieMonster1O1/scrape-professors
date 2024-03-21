@@ -19,4 +19,4 @@ def read_json() -> List[DepartmentFacultyLink]:
 
 def write_json(data: List[DepartmentFacultyLink]) -> None:
     with open('./faculty_links.json', 'w') as file:
-        json.dump([asdict(obj) for obj in data], file, indent=4)
+        json.dump([asdict(obj) for obj in data], file, indent=2)
