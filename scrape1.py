@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
-from dataclasses import dataclass
 from faculty_links import DepartmentFacultyLink, write_json
 
 browser = webdriver.Firefox()
