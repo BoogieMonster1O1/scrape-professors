@@ -10,7 +10,7 @@ class DepartmentFacultyLink:
     
 def read_json() -> List[DepartmentFacultyLink]:
     try:
-        with open('./faculty_links.json', 'r') as file:
+        with open('./faculty_lists.json', 'r') as file:
             data = json.load(file)
             return [DepartmentFacultyLink(**item) for item in data]
     except FileNotFoundError:
@@ -18,5 +18,5 @@ def read_json() -> List[DepartmentFacultyLink]:
         return []
 
 def write_json(data: List[DepartmentFacultyLink]) -> None:
-    with open('./faculty_links.json', 'w') as file:
+    with open('./faculty_lists.json', 'w') as file:
         json.dump([asdict(obj) for obj in data], file, indent=2)
