@@ -25,23 +25,16 @@ link_hrefs.extend([link.get_attribute('href') for link in other_links])
 faculty_links: list[DepartmentFacultyLink] = []
 
 for link_href in link_hrefs:
-    print(link_href)
-
-    browser.execute_script("window.open('" + link_href + "', '_blank');")
-    
+    browser.execute_script("window.open('" + link_href + "', '_blank');")    
     browser.switch_to.window(browser.window_handles[-1])
-
     browser.implicitly_wait(2)
     
     faculty_link: WebElement = browser.find_element(by=By.XPATH, value="//a[text()='Faculty'] | //a//*[text()='Faculty']/parent::a | //a[text()='Faculty Members']")
-    print(faculty_link.get_attribute('href'))
     faculty_links.append(DepartmentFacultyLink(hrefs_to_text[link_href], faculty_link.get_attribute('href')))
 
     browser.close()
     browser.switch_to.window(browser.window_handles[0])
-
-    print()
-
+    
 write_json(faculty_links)
 
 browser.quit()
