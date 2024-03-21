@@ -7,7 +7,7 @@ import json
 class DepartmentFacultyLink:
     name: str
     faculty_link: str
-
+    
 def read_json() -> List[DepartmentFacultyLink]:
     try:
         with open('./faculty_links.json', 'r') as file:

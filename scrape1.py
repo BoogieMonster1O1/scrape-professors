@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
-from faculty_links import DepartmentFacultyLink, write_json
+from faculty_list import DepartmentFacultyLink, write_json
 
 browser = webdriver.Firefox()
 browser.get('https://rvce.edu.in/rvce-departments')

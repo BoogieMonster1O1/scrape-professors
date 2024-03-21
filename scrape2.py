@@ -1,9 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
-from faculty_links import DepartmentFacultyLink, read_json
+from faculty_list import DepartmentFacultyLink, read_json
 
-links: List[DepartmentFacultyLink] = read_json()
+links: list[DepartmentFacultyLink] = read_json()
 
 browser = webdriver.Firefox()
 
