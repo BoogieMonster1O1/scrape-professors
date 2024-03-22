@@ -12,11 +12,18 @@ browser = webdriver.Firefox()
 
 for link in links:
     browser.get(link.faculty_link)
-    faculties = browser.find_elements(By.XPATH, "//tr//td[1]//a")
+    faculties = browser.find_elements(By.XPATH, "//tr//td[1]//a | //tr//td[2]//a")
     for faculty in faculties:
         faculty_page = faculty.get_attribute("href")
         faculty_links.append(FacultyLink(link.name, faculty_page))
-
+        
 browser.quit()
 
-write_json(faculty_links)
+seen_links = set()
+unique_faculty_links = []
+for link in faculty_links:
+    if link.link not in seen_links:
+        unique_faculty_links.append(link)
+        seen_links.add(link.link)
+
+write_json(unique_faculty_links)

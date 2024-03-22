@@ -1,0 +1,373 @@
+* H-index
+- Aerospace Engineering
+  - [ ] Dr. Ravindra S Kulkarni
+  - [ ] F Promio Charles
+  - [ ] Supreeth R
+  - [ ] Bhaskar K
+  - [ ] Pranesh Kumar S R
+  - [ ] Benjamin Rohit
+  - [ ] S Srinivasan
+  - [ ] Mukesh M
+  - [ ] ar_deepak bana
+  - [ ] Mr Jitendra Singh
+  - [ ] Shreesha S
+  - [ ] Srinath Ramakrishnan
+- Artificial Intelligence & Machine Learning
+  - [ ] Dr. B Sathish Babu
+  - [ ] Dr Vijayalakshmi MN
+  - [ ] Dr S Anupama Kumar
+  - [ ] Mr. Narasimha Swamy S
+  - [ ] Prof. Somesh Nandi
+  - [ ] Prof. K. Viswavardhan reddy
+  - [ ] Prof. Rajesh M
+  - [ ] Prof. Priya T V
+  - [ ] Prof Sonika CT
+- Biotechnology
+  - [ ] Dr. Vidya Niranjan, Professor & HOD
+  - [ ] Dr. A H Manjunatha Reddy
+  - [ ] Dr. Neeta Shivakumar, Associate Professor
+  - [ ] Dr. Nagashree N Rao, Associate Professor
+  - [ ] RVCE-BT-G-Vijayakumar
+  - [ ] Dr. G Vijaya Kumar, Assistant Professor
+  - [ ] Dr. Lingayya Hiremath, Assistant Professor
+  - [ ] Dr. M. Rajeswari, Assistant Professor
+  - [ ] Dr. Ajeet Kumar Srivastava, Assistant Professor
+  - [ ] Dr. Shivandappa
+  - [ ] Dr. Narendra Kumar S, Assistant Professor
+  - [ ] Dr. Praveen Kumar Gupta, Assistant Professor
+  - [ ] Dr. Trilok Chandran B, Assistant Professor
+  - [ ] Dr.H. Raju, Assistant Professor
+  - [ ] Dr. Sumathra M, Assistant Professor
+  - [ ] Dr. H.G. Ashok Kumar, Professor
+  - [ ] Dr. A.V. Narayan, Associate Professor & Associate Dean
+  - [ ] Dr. Ashwani Sharma, Assistant Professor
+- Chemical Engineering
+  - [ ] Dr. Vinod Kallur
+  - [ ] Dr. R. Suresh
+  - [ ] D. Ranganath
+  - [ ] Dr. Jagadish H. Patil
+  - [ ] Dr. Basavaraja R J
+  - [ ] Dr. P.L. Muralidhara
+  - [ ] Dr. Vidya C.
+  - [ ] Dr. Rajalakshmi Mudbidre
+  - [ ] Dr. Manjula Sarode
+  - [ ] Ujwal S. Meda
+  - [ ] Anupama V. Joshi
+  - [ ] Vinutha Moses
+- Civil Engineering
+  - [ ] Dr. Radhakrishna
+  - [ ] Dr. M.V. Renukadevi
+  - [ ] Dr. V. Anantharama
+  - [ ] Dr. Vinod A. R
+  - [ ] Dr. T. Raghavendra
+  - [ ] Dr.M. Lokeshwari
+  - [ ] Dr. S. Nethravathi
+  - [ ] Dr. L.Durga Prashanth
+  - [ ] Dr. Anand Kumar B.G.
+  - [ ] M. Varuna
+  - [ ] Dr. Sindhu. D
+  - [ ] Dr. Sunil S
+  - [ ] Dr. Praveen Kumar K
+  - [ ] Dr. K. Gajalakshmi
+  - [ ] Dr. Somanath. M. Basutkar
+  - [ ] Venugopal. G
+  - [ ] Ram Thilak
+  - [ ] Dr. Vikas Mendi
+  - [ ] Vageesh H P
+  - [ ] Ravikiran S Wali
+  - [ ] Shrithi.S.Badami
+  - [ ] Shashi Kiran C R
+  - [ ] Gowtham Prasad M. E.
+  - [ ] Ashwin Thammaiah K
+  - [ ] Dr. B.C.Udayashankar
+  - [ ] Dr. Ravindra R.
+  - [ ] Dr. K. Madhavi
+  - [ ] Dr. M.S.Nagakumar
+  - [ ] Dr. Anjaneyappa
+  - [ ] Dr. M. R. Archana
+- Computer Science and Engineering
+  - [ ] Dr Ramakanth Kumar P
+  - [ ] Dr. Shanta Rangaswamy,
+  - [ ] Dr. Krishnappa H. K.
+  - [ ] Dr.Soumya. A
+  - [ ] Dr. Deepamala N
+  - [ ] Dr Sowmyarani C N
+  - [ ] Dr. Hemavathy R.
+  - [ ] Dr.Badari Nath K
+  - [ ] Dr. Chethana R Murthy
+  - [ ] Dr.Pratiba .D
+  - [ ] Dr.Jyoti Shetty
+  - [ ] Dr. Praveena T,
+  - [ ] Dr. Vishalakshi Prabhu H
+  - [ ] Prof. Ganashree K . C
+  - [ ] Dr. Suma B
+  - [ ] Dr.Pavithra H
+  - [ ] Dr.Prapulla S B
+  - [ ] Prof. Sneha M
+  - [ ] Prof.Manonmani S
+  - [ ] Prof. Deepika Dash
+  - [ ] Prof. Smriti Srivastava
+  - [ ] Prof. Girish Rao Salanke N S
+  - [ ] Dr. Manas M N
+  - [ ] Prof Veena Gadad
+  - [ ] Prof. Anitha Sandeep
+  - [ ] Prof. Apoorva Uday Kumar Chate
+  - [ ] Prof. Abhisek Midya
+  - [ ] Rajatha
+  - [ ] Ms. SAVITRI KULKARNI
+  - [ ] Dr Shobha G
+  - [ ] Dr.Soumya. A
+  - [ ] Dr.Sindhu D V
+  - [ ] Dr. Minal Moharir
+  - [ ] Dr. Ashok Kumar A R
+  - [ ] Dr. Mohana
+  - [ ] Prof. Neethu S
+  - [ ] Prof.Shweta Babu Prasad
+  - [ ] Dr Rajashree Shettar
+  - [ ] Dr. Azra Nasreen
+  - [ ] Prof Srividya M S
+  - [ ] Dr. Nagaraja G.S
+  - [ ] Dr. Vinay V Hegde
+  - [ ] Dr. Sandhya. S
+- Electrical and Electronics Engineering
+  - [ ] Dr. S.G Srivani
+  - [ ] Dr. M N Dinesh
+  - [ ] Dr V Chayapathi
+  - [ ] Dr V Chayapathi
+  - [ ] Dr. Anitha G.S
+  - [ ] C. Sunanda
+  - [ ] Suresh .C
+  - [ ] Dr. Adinatha Jain
+  - [ ] Dr. Madhu B .R
+  - [ ] Dr. Ajay K M
+  - [ ] Sushmita Sarkar
+  - [ ] Raja Vidya
+  - [ ] Dr. Parth Sarathi Panigrahy
+  - [ ] Dr. Pandry Narendra Rao
+  - [ ] Dr. Vandana Jha
+  - [ ] Dr V Chayapathi
+  - [ ] Dr V Chayapathi
+  - [ ] Dr. Hemalatha J N
+  - [ ] Dr. AbhilashKrishna D G
+- Electronics and Communication Engineering
+  - [ ] Dr. Geetha.K.S
+  - [ ] Dr. Uma B.V
+  - [ ] Dr. M Uttara Kumari
+  - [ ] Dr. Usha Rani.K.R
+  - [ ] Dr. Veena Devi
+  - [ ] Dr. Chethana G
+  - [ ] Dr.Sujata D. Badiger
+  - [ ] Dr. Mrs Rohini Hallikar
+  - [ ] Dr.Mrs. Sujatha Hiremath
+  - [ ] Dr. Rajani Katiyar
+  - [ ] Mr. P Narashimaraja
+  - [ ] Dr.Govinda Raju M
+  - [ ] Dr. Nethravathi K.A
+  - [ ] Dr. Shilpa DR
+  - [ ] Dr. Mahesh A
+  - [ ] Dr. K S Shushrutha
+  - [ ] Dr. N.Ramavenkateswaran
+  - [ ] Dr. Roopa J
+  - [ ] Dr. Abhay Deshpande
+  - [ ] Dr. Sahana B
+  - [ ] Mr. Ravishankar Holla
+  - [ ] Mrs. Sowmya Nag K
+  - [ ] Mrs. Sujata Priyambada Mishra
+  - [ ] Mrs. Neeta B. Malvi
+  - [ ] Mrs. Deepika. P
+  - [ ] Ms. Shwetha Baliga
+  - [ ] Mr. Rajith Kumar B K
+  - [ ] Anusha L S
+  - [ ] Dr. Saba Farheen N S
+  - [ ] Mr. S Praveen
+  - [ ] Dr. Nagaraj Bhat
+  - [ ] Dr. Ramya.S, Assistant professor
+  - [ ] Mrs. Pratibha Kantanavar
+  - [ ] Ms Sindhu Rajendran
+  - [ ] Mr. Subrahmanya K N
+  - [ ] Mrs. Aovuthu Sree Madhuri
+  - [ ] Dr. Avik Banerjee
+  - [ ] Dr. S Ravi Shankar
+  - [ ] Dr. Prakash Biswagar
+  - [ ] Dr.Kiran V
+  - [ ] Dr. Jayanthi P.N
+  - [ ] Dr. H. V. Ravish Aradhya
+  - [ ] Dr. Kariyappa B.S
+  - [ ] Dr. Shylashree N, Associate Professor
+  - [ ] Dr Srividya P
+  - [ ] Dr. Sowmya K.B
+  - [ ] Dr. Eleena Mohapatra
+- Electronics and Instrumentation Engineering
+  - [ ] Dr. CH. Renu Madhavi
+  - [ ] DR.K.V.PADMAJA
+  - [ ] DR.S.C.Prasanna Kumar
+  - [ ] Prof. Venkatesh. S
+  - [ ] Dr. K. B. Ramesh
+  - [ ] DR.ANAND JATTI
+  - [ ] DR. B.G.Sudarshan
+  - [ ] Dr. Rachana. S. Akki
+  - [ ] Dr. Deepashree Devaraj
+  - [ ] Dr. Harsha. H
+  - [ ] Dr. Tabitha Janumala
+  - [ ] Dr. Rajasree P.M
+  - [ ] Dr. Kendaganna Swamy. S
+  - [ ] Dr. Veena Divya Krishnappa
+- Industrial Engineering and Management
+  - [ ] Dr. C K Nagendra Gupta
+  - [ ] Dr. K N Subramanya
+  - [ ] Dr. N.S.Narahari
+  - [ ] Dr. Rajeswara Rao K V S
+  - [ ] Dr. M N Vijayakumar
+  - [ ] Dr. Ramaa A
+  - [ ] Dr. Shobha N S
+  - [ ] Vivekanand S Gogi
+  - [ ] Dr. Vikram N Bahadurdesai
+  - [ ] Dr. Chitra B T
+  - [ ] Shruthi M N
+  - [ ] Dr. Arjun V. Singar
+  - [ ] B Nandini
+  - [ ] Bhaskar M G
+- Information Science and Engineering
+  - [ ] Dr. B M Sagar
+  - [ ] S G Raghavendra Prasad
+  - [ ] Dr. Kavitha S N
+  - [ ] Rekha B S
+  - [ ] Swetha S
+  - [ ] Priya D
+  - [ ] B K Srinivas
+  - [ ] Prof. Sharadadevi Kaganurmath
+  - [ ] Vanishree K
+  - [ ] Sushmitha N
+  - [ ] Poornima Kulkarni
+  - [ ] Merin Meleet
+  - [ ] Dr. G S Mamatha
+  - [ ] Dr. Ashwini K.B
+  - [ ] Rashmi R
+  - [ ] Dr. Anala M R
+  - [ ] Dr. Nagaraj G Cholli
+  - [ ] Dr. Padmashree T
+  - [ ] Smitha G R
+- Master of Computer Applications
+  - [ ] Dr Andhe Dharani
+  - [ ] Dr Usha J
+  - [ ] Dr K S Jasmine
+  - [ ] Dr Renuka Prasad B
+  - [ ] Dr. Chandrashekar B.H.
+  - [ ] Dr. Mohan Aradhya
+  - [ ] Dr. Divya T L
+  - [ ] Prof. Saravanan C
+  - [ ] Dr. Vishal C
+  - [ ] Prof. Chandrani Chakravorty
+  - [ ] Prof. Savita S
+  - [ ] Dr. Jayasimha S. R
+  - [ ] Dr. Deepika K
+  - [ ] Mr. Prashanth K
+  - [ ] Dr. Preethi . N. Patil
+  - [ ] Dr R.Savitha
+- Mechanical Engineering
+  - [ ] Dr. Krishna M
+  - [ ] Dr. H N Narasimha Murthy
+  - [ ] Dr. Gopala Krishna H D
+  - [ ] Dr. Ramesh S Sharma
+  - [ ] Dr. Suresh B S
+  - [ ] Dr. P R Venkatesh
+  - [ ] Dr. Sridhar R
+  - [ ] Dr. Nataraj J R
+  - [ ] Dr. Harisha S K
+  - [ ] Dr. Mahendra Kumar S
+  - [ ] Dr. Ratna Pal
+  - [ ] Dr. Nagesh S
+  - [ ] Ramakrishna Hegde
+  - [ ] Chandrakumar R
+  - [ ] Dr. Sourabha Srinivasa Havaldar
+  - [ ] Keshava Murthy Y C
+  - [ ] Mamatha V
+  - [ ] Keshav M
+  - [ ] Girish Kumar R
+  - [ ] Girish V A
+  - [ ] Dr. Gangadhar Angadi
+  - [ ] Anjaneya G
+  - [ ] Sujan Chakraborty
+  - [ ] Jinka Ranganayakalu
+  - [ ] Rakesh Kumar
+  - [ ] Gajanan
+  - [ ] Abhiram E R
+  - [ ] Prapul Chandra A C
+  - [ ] Mahantesh M Math
+  - [ ] Dr. Shanmukha Nagaraj
+  - [ ] Dr. Nanjundaradhya N V
+  - [ ] Dr. P V Srihari
+  - [ ] Dr. G R Rajkumar
+  - [ ] Bharatish A
+  - [ ] Dr. Roopa T S
+  - [ ] Dr. Kirthan L J
+  - [ ] Jagannatha Guptha V L
+- Electronics and Telecommunication Engineering (Telecommunication Engineering)
+  - [ ] Dr. K.Sreelakshmi
+  - [ ] Prof. G. Sadashivappa
+  - [ ] Dr. H.V. Kumaraswamy
+  - [ ] Dr. Nagaraju
+  - [ ] Dr. Bhagya R.
+  - [ ] Prof. B. Roja Reddy
+  - [ ] Dr. Premananda .B. S
+  - [ ] Prof. Shanthi P.
+  - [ ] Dr. Usha Padma
+  - [ ] Prof.T.P.Mithun
+  - [ ] Prof.Pawankumar B
+  - [ ] Dr. Shambulinga M.
+  - [ ] Prof.N.N.Nagendra
+  - [ ] Prof. Mahalakshmi M. N.
+  - [ ] Prof. Sandya H B
+  - [ ] Prof. Rakesh K.R
+  - [ ] Dr. K. Nagamani
+  - [ ] Dr. K. Saraswathi
+  - [ ] Dr. Ranjani G.
+- Chemistry
+  - [ ] Dr. Raviraj Kusanur
+  - [ ] Dr. Mahesh R
+  - [ ] Dr C. Manjunatha
+  - [ ] Dr. Divakara S. G.
+  - [ ] Dr. Sham Aan M. P.
+  - [ ] Dr M. Sridharan
+  - [ ] Dr. Swarna M Patra
+  - [ ] Dr Vishnumurthy K A
+  - [ ] Dr. Girish Kumar S
+  - [ ] Dr. Swetha S M
+- Physics
+  - [ ] Dr.Sudha Kamath.M.K
+  - [ ] Dr. T. Bhuvaneswara Babu
+  - [ ] Dr. D.N. Avadhani
+  - [ ] Dr.G.Shireesha
+  - [ ] Dr.G.Shireesha
+  - [ ] Prof.Shubha.S
+  - [ ] Prof.Shubha.S
+  - [ ] Dr.Tribikram Gupta
+  - [ ] Dr. B M Rajesh
+  - [ ] Dr. Ramya P
+  - [ ] Dr. Karthik Shastry
+  - [ ] Dr. Niranjana K M
+  - [ ] Dr.Dileep MS
+- Mathematics
+  - [ ] Dr. G. Jayalatha
+  - [ ] Dr. Neeti Ghiya
+  - [ ] Dr. C Nandeesh Kumar-
+  - [ ] Dr. Savithri Shashidhar
+  - [ ] Dr. Prakash R
+  - [ ] Mr. P L Rajashekhar
+  - [ ] Dr. Y Sailaja
+  - [ ] Dr. Sujatha A
+  - [ ] Dr. Vidya Patil
+  - [ ] Dr. Nivya Muchikel
+  - [ ] Dr. Ravi K M
+  - [ ] Dr. Sowmya M
+  - [ ] Dr. Satish V. Motammanavar
+  - [ ] Mr. Harish M
+  - [ ] Dr. Suman N P
+  - [ ] Dr. Kiran Kumar D L
+  - [ ] Dr. Venugopal K
+  - [ ] Dr. Niranjan P. K
+  - [ ] Dr. Suma N Manjunath
+  - [ ] Dr. Prasanna Kumar. T
+  - [ ] Dr Sakshath T N
+  - [ ] Dr Hemanthkumar B
+  - [ ] Dr.Raksha M
